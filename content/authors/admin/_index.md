@@ -23,8 +23,8 @@ bio: My research interests include [update...]
 interests:
 - Diagnostic Classification Models
 - Item Response Theory
-- Structural Equating Modeling
 - Experimental Design and Analysis
+-Causal Inference
 
 education:
   courses:
