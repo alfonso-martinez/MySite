@@ -18,7 +18,7 @@ organizations:
   url: "https://education.uiowa.edu/academic-programs/educational-measurement-and-statistics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include [update...]
 
 interests:
 - Diagnostic Classification Models
@@ -32,7 +32,6 @@ education:
     institution: University of Iowa
     year: 2021 (In Progress)
   - course: BA in Psychology
-    minor: Minor in Mathematics
     institution: California State University, Fresno
     year: 2019
 
@@ -44,15 +43,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
+  icon_pack: fa
+  link: https://www.linkedin.com/in/AlfonsoMPsych/
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
+  link: https://twitter.com/AlfonsoMPsych
+- icon: orcid
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://orcid.org/0000-0002-5337-9654
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/alfonso-martinez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
