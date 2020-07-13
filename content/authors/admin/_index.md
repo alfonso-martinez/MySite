@@ -24,7 +24,7 @@ interests:
 - Diagnostic Classification Models
 - Item Response Theory
 - Experimental Design and Analysis
--Causal Inference
+- Causal Inference
 
 education:
   courses:
