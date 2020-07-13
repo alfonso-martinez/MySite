@@ -45,7 +45,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/AlfonsoMPsych/
+  link: www.linkedin.com/in/alfonsompsych
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AlfonsoMPsych
