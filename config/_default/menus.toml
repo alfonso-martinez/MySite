@@ -8,10 +8,10 @@
   url = "#about"
   weight = 10
 
- [[main]]
-    name = "CV"
-    url = "https://alfonso-martinez.github.io/MyCV/"
-    weight = 70
+# [[main]]
+ #   name = "CV"
+  #  url = "https://alfonso-martinez.github.io/MyCV/"
+   # weight = 70
     
 #[[main]]
  # name = "Posts"
