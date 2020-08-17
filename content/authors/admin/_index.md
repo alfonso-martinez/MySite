@@ -39,7 +39,10 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: "mailto:alfonso-martinez@uiowa.edu" # use this for a direct link
-  link: '#contact'  
+  link: '#contact'
+- icon: cv
+  icon_pack: ai
+  link: https://alfonso-martinez.github.io/MyCV/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/AlfonsoMPsych/
@@ -52,11 +55,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/alfonso-martinez
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: https://alfonso-martinez.github.io/MyCV/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alfonso-martinez@uiowa.edu"
