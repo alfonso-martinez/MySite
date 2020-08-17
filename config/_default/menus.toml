@@ -8,6 +8,11 @@
   url = "#about"
   weight = 10
 
+ [[main]]
+    name = "CV"
+    url = "https://alfonso-martinez.github.io/MyCV/"
+    weight = 70
+    
 [[main]]
   name = "Posts"
   url = "#posts"
@@ -28,9 +33,3 @@
   url = "#contact"
   weight = 60
 
-# Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- [[main]]
-    name = "CV"
-    url = "https://alfonso-martinez.github.io/MyCV/"
-    weight = 70
