@@ -54,9 +54,9 @@ social:
   link: https://github.com/alfonso-martinez
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- # - icon: cv
- #  icon_pack: ai
- #  link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: https://alfonso-martinez.github.io/MyCV/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alfonso-martinez@uiowa.edu"
