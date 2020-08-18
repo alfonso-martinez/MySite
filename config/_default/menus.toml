@@ -13,10 +13,10 @@
   #  url = "https://alfonso-martinez.github.io/MyCV/"
    # weight = 70
     
-#[[main]]
- # name = "Posts"
- # url = "#posts"
- # weight = 20
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
 
 [[main]]
   name = "Projects"
