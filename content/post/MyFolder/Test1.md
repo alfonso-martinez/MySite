@@ -13,16 +13,13 @@ draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image: ""
-  caption: "HI"
+image:
+  placement: 2
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: "center"
-
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references 
-#   `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
+  preview_only: false
+  
+  
 projects: []
 ---
 hhj ![png](./featured.png)
