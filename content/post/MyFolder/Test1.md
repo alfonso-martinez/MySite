@@ -13,9 +13,9 @@ draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: ""
-  focal_point: ""
+image: featured.png
+  caption: "HI"
+  focal_point: "center"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -26,6 +26,7 @@ image:
 projects: []
 ---
 
+![png](./featured.png)
 Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
 \begin{align*}
 	p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi \mid \mathbf{x}) &\propto p(\mathbf{x} \mid \Xi, \kappa, \Phi, \tau, \Lambda, \Psi) p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi) \\
