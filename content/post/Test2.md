@@ -1,9 +1,9 @@
 ---
 title: More of the same 
-description:even more of the same.
+description: even more of the same.
 ---
 
-Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
+hi h Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
 \begin{align*}
 	p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi \mid \mathbf{x}) &\propto p(\mathbf{x} \mid \Xi, \kappa, \Phi, \tau, \Lambda, \Psi) p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi) \\
 	&= p(\mathbf{x} \mid \Xi, \tau, \Lambda, \Psi) p(\Xi \mid \kappa, \Phi) p(\kappa) p(\Phi) p(\tau) p(\Lambda) p(\Psi) \\
