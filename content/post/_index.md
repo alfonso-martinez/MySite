@@ -1,5 +1,5 @@
 ---
-title: MYPOST
+title: Post
 
 # View.
 #   1 = List
@@ -9,10 +9,6 @@ view: 3
 
 # Optional header image (relative to `static/img/` folder).
 header:
-  caption: "HELOOO"
+  caption: ""
   image: ""
 ---
-
-Lets revisit a new idea.
-
-Add your *content* here...
