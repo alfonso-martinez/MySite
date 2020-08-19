@@ -1,6 +1,16 @@
 ---
-title: Example Post
-description: A very simple post, a very simple post.
+categories:
+- Development
+- VIM
+date: "2012-04-06"
+description: spf13-vim is a cross platform distribution of vim plugins and resources for Vim.
+slug: spf13-vim-3-0-release-and-new-website
+tags:
+- .vimrc
+- plugins
+- spf13-vim
+- vim
+title: spf13-vim 3.0 release and new website
 ---
 
 Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
