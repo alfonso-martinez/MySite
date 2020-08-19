@@ -24,7 +24,7 @@ projects: []
 ---
 hhj
 
-![png](./featured.png)
+[png](./myCFA.png)
 
 
 The following ```r``` code works:
