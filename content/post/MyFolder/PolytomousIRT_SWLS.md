@@ -1,6 +1,5 @@
 ---
-title: An Application of Polytomous Item Response Models to the Satisfaction with
-Life Scale
+title: An Application of Polytomous Item Response Models to the Satisfaction with Life Scale
 subtitle: An application of polytomous item response models
 summary: An application of polytomous item response models
 authors:
