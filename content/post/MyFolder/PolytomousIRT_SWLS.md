@@ -22,7 +22,7 @@ projects: []
 hhj
 
 
-![png](./"myCFA.png")
+![myCFA2](myCFA.png)
 
 In this blog post, we will be going over an application of polytomous item response models (specifically, the Graded Response Model) to the Satisfaction with Life Scale. The structure of this report mirrors that of the presentation I gave on May 4, 2020 to the class, but contains a bit more information. I begin by introducing the Satisfaction with Life Scale and providing a brief historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. I then briefly describe my data, where it came from, and how it was used in this project. I then transition to matters related to item response theory, particularly model specification and how I arrived at the model I ended up using to fit my data. Lastly, I describe and interpret the results I obtained and provide graphics of the results. The end of the report contains the R syntax I used to obtain all analyses and results.
 
