@@ -9,11 +9,9 @@ tags: []
 categories: []
 date: "2019-02-05T00:00:00Z"
 lastMod: "2019-09-05T00:00:00Z"
-featured: false
+featured: true
 draft: false
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   placement: 2
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
@@ -21,9 +19,7 @@ image:
   preview_only: false
  
 projects: []
-
 ---
-
 hhj
 
 
