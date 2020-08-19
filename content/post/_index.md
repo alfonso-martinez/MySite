@@ -1,5 +1,5 @@
----
-title: Posts
++++
+title: MYPOST
 
 # View.
 #   1 = List
@@ -11,6 +11,8 @@ view: 2
 header:
   caption: ""
   image: ""
----
++++
 
-hello.
+Lets revisit a new idea.
+
+Add your *content* here...
