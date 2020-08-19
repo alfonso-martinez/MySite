@@ -18,7 +18,7 @@ organizations:
   url: "https://education.uiowa.edu/academic-programs/educational-measurement-and-statistics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include [update...]
+bio: I am currently a second year graduate student at the University of Iowa. I am primarily interested in development of statistical and psychometric models, as well as identification of bias in randomized and non-randomized (observational) studies. 
 
 interests:
 - Diagnostic Classification Models
