@@ -1,7 +1,7 @@
 ---
 title: An Application of Polytomous Item Response Models to the Satisfaction with Life Scale
-subtitle: An application of polytomous item response models
-summary: An application of polytomous item response models
+subtitle: 
+summary:
 authors:
 - admin
 tags: []
@@ -22,7 +22,7 @@ projects: []
 hhj
 
 
-[png](./myCFA.png)
+![png](./myCFA.png)
 
 
 The following ```r``` code works:
