@@ -86,7 +86,6 @@ More information about the graded response model can be found in Samejima (1997)
 
 # Methods
 
-
 The R package ltm was used to fit the graded response model to the SWLS data.
 The ltm package is a latent trait modeling package with many functions; it can be used to
 fit dichotomous and polytomous response models, provides model fit indices such as
@@ -138,3 +137,7 @@ interesting result given that the scale is only 5 items and was not developed us
 response theory techniques. Overall, these results provide compelling evidence for the
 utility and practicality of the SWLS, especially for researchers and practitioners interested
 in using the scale as a proxy for individuals’ well-being.
+
+![Item Information Curves](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/ItemInfoCurves.png)
+![Test Information Curve](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/TestInfoCurve.png)
+
