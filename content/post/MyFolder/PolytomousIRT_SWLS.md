@@ -44,8 +44,6 @@ indicated by Coefficient . Reported  values in the literature range between .7
 
 # My SWLS Data
 
-<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="100"/> <img src="https://openclipart.org/download/71101/two.svg" width="100"/>
-
 Data for this project comes from my undergraduate thesis completed as an
 undergrad at California State University, Fresno. In the original project, two versions of
 the SWLS were created and participants were randomly assigned to receive one version.
