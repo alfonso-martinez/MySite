@@ -20,7 +20,7 @@ image:
 projects: []
 ---
 
-In this blog post, we will be going over an application of polytomous item response models to the Satisfaction with Life Scale (SWLS). We begin by introducing the SWLS, proving a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained.
+In this blog post, we will be going over an application of polytomous item response models to the Satisfaction with Life Scale (SWLS). We begin by introducing the SWLS, proving a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained. This blog post is designed to function as a guide for those who are interested in fitting polytomous item response models to their data. 
 
 # The Satisfaction with Life Scale
 
@@ -68,10 +68,12 @@ that could appropriately handle the ordinal nature of the SWLS. Because multiple
 response scores are possible for a given item, dichotomous item response models are not
 appropriate for this type of data. This includes the three parameter logistic model and its
 simpler forms (i.e. 2-PL and 1-PL/Rasch model).
+
 Clearly then, a polytomous item response model is needed. There are several
 polytomous item response models that I considered. These included the nominal response
-model, graded response model, partial credit model, and rating scale model. I conducted a
-“mini literature review” where I read and learned the basics of each model and types of
+model (NRM), graded response model (GRM), partial credit model (PCM), and rating scale model (RSM). The models mainly differ in the assumptions they make and the constraints they place on certain parameters. For instance, the ...
+
+I conducted a “mini literature review” where I read and learned the basics of each model and types of
 data that they can successfully model. Based on this review, I selected the graded response
 model (GRM) because it can handle ordinal categories (the nominal response model
 cannot) and, in my opinion, offered the most flexibility (the rating scale model requires
@@ -79,7 +81,7 @@ that the difficulty parameter of the items be the same distance apart).
 The rating scale model, proposed by Fumiko Samejima, is a polytomous item
 response model used to model data with polytomous (ordinal) response categories. The
 rating scale model has the mathematical form
-  $$lambda + \ambda = 2\lambda$$,
+  $$\lambda + \lambda = 2\lambda$$,
 where $i$ denotes individual $i$, $j$ denotes item $j$, $\theta$ represents the latent trait, $x_{ij}$ represents
 individual $i$’s score on item $j$, $b_{x_{ij}}$ is the item-specific location parameter and represents the
 point along the $\theta$ scale at which the probability of an endorsement equals 0.5, $a_j$ is an item
@@ -88,7 +90,7 @@ More information about the graded response model can be found in Samejima (1997)
 
 # Methods
 
-The R package ltm was used to fit the graded response model to the SWLS data.
+The R package `ltm` was used to fit the graded response model to the SWLS data.
 The ltm package is a latent trait modeling package with many functions; it can be used to
 fit dichotomous and polytomous response models, provides model fit indices such as
 goodness-of-fit statistics, supports test equating, and more. Estimation of the graded
@@ -107,7 +109,7 @@ model. Thus, all subsequent analyses and figures were done using the unconstrain
 Below are the estimated difficulty and discrimination estimates for each item of the
 SWLS from the unconstrained graded response model. Each row beginning with SWLS1
 represents item j (j = 1, . . . , 5) with each column beginning with Extrmt1 presents the
-point on the  scale where an individual with estimated ability, ˆ, has 50% probability of
+point on the $\tha scale where an individual with estimated ability, ˆ, has 50% probability of
 endorsing that particular category.
 For instance, consider the value 0.340 corresponding to SWLS3 and Extrmt5. This
 point is the estimated  value at which a respondent has a 50% probability of endorsing a
