@@ -35,7 +35,14 @@ later interpreted as global evaluations of a person’s life. After eliminating 
 redundancies, the scale was further reduced from 10 items to five items. The final scale
 consists of 5 items that are responded to with a 7-point Likert scale (1 = strongly disagree
 to 7 = strongly agree). Studies has shown that the SWLS has high internal consistency, as
-indicated by Coefficient $\alpha$. Reported $\alpha$ values in the literature range between .79 to .89.
+indicated by Coefficient $\alpha$. Reported $\alpha$ values in the literature range between .79 to .89. 
+
+Previous research has found that the SWLS is 
+
+
+# Item Response Theory
+The ordinal nature of the SWLS makes it an ideal candidate to be analyzed with item response theory. Item response theory is a 
+
 
 # Data
 
@@ -53,9 +60,6 @@ analyzed in this project came from n = 656 participants (77% female). Internal c
 ![item 3 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item3CCC.png) ![item 4 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item4CCC.png)
 ![Category Characteristic Curve (CCC) for Item 5 of the SWLS.](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item5CCC.png)
 
-
-# Item Response Theory
-Item response theory is ...
 
 # Model Specification: Which Model Should I Use to Fit the Data?
 
