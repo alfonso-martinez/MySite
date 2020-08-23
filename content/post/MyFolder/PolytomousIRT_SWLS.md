@@ -90,7 +90,7 @@ More information about the graded response model can be found in Samejima (1997)
 
 # Methods
 
-The R package `ltm` was used to fit the graded response model to the SWLS data.
+The R package ```{r} ltm ``` was used to fit the graded response model to the SWLS data.
 The ltm package is a latent trait modeling package with many functions; it can be used to
 fit dichotomous and polytomous response models, provides model fit indices such as
 goodness-of-fit statistics, supports test equating, and more. Estimation of the graded
