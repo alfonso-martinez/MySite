@@ -20,12 +20,7 @@ image:
 projects: []
 ---
 
-In this blog post, we will be going over an application of polytomous item response models (specifically, the Graded Response Model) to the Satisfaction with Life Scale. The structure of this report mirrors that of the presentation I gave on May 4, 2020 to the class, but contains a bit more information. I begin by introducing the Satisfaction with Life Scale and providing a brief historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. I then briefly describe my data, where it came from, and how it was used in this project. I then transition to matters related to item response theory, particularly model specification and how I arrived at the model I ended up using to fit my data. Lastly, I describe and interpret the results I obtained and provide graphics of the results. The end of the report contains the R syntax I used to obtain all analyses and results.
-
-![item 1 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item1CCC.png) ![item 2 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item2CCC.png)
-![item 3 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item3CCC.png) ![item 4 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item4CCC.png)
-![Category Characteristic Curve (CCC) for Item 5 of the SWLS.](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item5CCC.png)
-
+In this blog post, we will be going over an application of polytomous item response models to the Satisfaction with Life Scale (SWLS). We begin by introducing the SWLS, proving a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained.
 
 # The Satisfaction with Life Scale
 
@@ -40,12 +35,11 @@ later interpreted as global evaluations of a person’s life. After eliminating 
 redundancies, the scale was further reduced from 10 items to five items. The final scale
 consists of 5 items that are responded to with a 7-point Likert scale (1 = strongly disagree
 to 7 = strongly agree). Studies has shown that the SWLS has high internal consistency, as
-indicated by Coefficient . Reported  values in the literature range between .79 to .89.
+indicated by Coefficient $\alpha$. Reported $\alpha$ values in the literature range between .79 to .89.
 
-# My SWLS Data
+# Data
 
-Data for this project comes from my undergraduate thesis completed as an
-undergrad at California State University, Fresno. In the original project, two versions of
+Data for this project comes from my undergraduate thesis. In the original project, two versions of
 the SWLS were created and participants were randomly assigned to receive one version.
 One version of the SWLS was the original scale and in the second version of the SWLS, the
 response labels for categories 2 through 6 were left blank. The research question in my
@@ -53,8 +47,15 @@ undergraduate thesis was to compare the two versions and determine if the two ve
 the scale produced significantly different results. For this project, however, I ignored this
 difference and combined responses from all participants. Thus, the SWLS dataset I
 analyzed in this project came from n = 656 participants (77% female). Internal consistency
-( = .879) was relatively high and on-par with reported values in the literature.
+($\alpha$ = .879) was relatively high and inline with reported values in the literature.
 
+![item 1 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item1CCC.png) ![item 2 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item2CCC.png)
+![item 3 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item3CCC.png) ![item 4 CCC](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item4CCC.png)
+![Category Characteristic Curve (CCC) for Item 5 of the SWLS.](https://github.com/alfonso-martinez/MySite/raw/master/content/post/MyFolder/item5CCC.png)
+
+
+# Item Response Theory
+Item response theory is ...
 
 # Model Specification: Which Model Should I Use to Fit the Data?
 
