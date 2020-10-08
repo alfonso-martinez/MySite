@@ -21,8 +21,8 @@ organizations:
 bio: I am currently a second year graduate student at the University of Iowa. I am primarily interested in development of statistical and psychometric models, as well as identification of bias in randomized and non-randomized (observational) studies. 
 
 interests:
+- Bayesian Psychometric Modeling
 - Diagnostic Classification Models
-- Item Response Theory
 - Experimental Design and Analysis
 - Causal Inference
 
