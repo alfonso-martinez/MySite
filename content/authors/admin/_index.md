@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Alfonso J. Martinez is a second year graduate student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa. His research interests include classification diagnostic models, item response theory, Bayesian statistics, and statistical methodology. 
+Alfonso J. Martinez is a second year graduate student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa. His research interests include latent variable modeling (diagnostic classification models, item response theory), Bayesian modeling & prediction, and causal inference. 
