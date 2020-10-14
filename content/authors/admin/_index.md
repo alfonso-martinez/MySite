@@ -18,7 +18,7 @@ organizations:
   url: "https://education.uiowa.edu/academic-programs/educational-measurement-and-statistics"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a second year graduate student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa. My current research interest is in the development and application of latent variable models for educational assessment and psychological measurement. I am also interested in identification of bias in randomized and non-randomized (observational) studies. 
+bio: I am currently a second year graduate student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa. My current research interest is in the development and application of latent variable models for educational assessment and psychological measurement. I am also interested in issues related to causal inference, particularly identification of bias in randomized and non-randomized (observational) studies. 
 
 interests:
 - Bayesian Psychometric Modeling
