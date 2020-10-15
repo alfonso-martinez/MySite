@@ -1,10 +1,11 @@
 ---
 title: Bayesian Confirmatory Factor Analysis: A Tutorial (Coming Soon)
-description: A tutorial for fitting Bayesian factor analytic models
+description: A tutorial for fitting Bayesian CFA models
 ---
 
 hi h Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
-$p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi \mid \mathbf{x}) &\propto p(\mathbf{x} \mid \Xi, \kappa, \Phi, \tau, \Lambda, \Psi) p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi)$
+\begin{align*}
+p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi \mid \mathbf{x}) &\propto p(\mathbf{x} \mid \Xi, \kappa, \Phi, \tau, \Lambda, \Psi) p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi)
 	&= p(\mathbf{x} \mid \Xi, \tau, \Lambda, \Psi) p(\Xi \mid \kappa, \Phi) p(\kappa) p(\Phi) p(\tau) p(\Lambda) p(\Psi) \\
 	&= \prod_{i = 1}^{n} \prod_{j = 1}^{J} \prod_{m = 1}^{M} p(x_{ij} \mid \xi_i, \tau_j, \lambda_j, \psi_{ij}) p(\xi_i \mid \kappa, \Phi) p(\kappa_m) p(\Phi) p(\tau_j) p(\lambda_{jm}) p(\psi_{jj}), 
 	\intertext{where}
