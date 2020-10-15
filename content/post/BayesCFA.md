@@ -1,5 +1,5 @@
 ---
-title: Bayesian Confirmatory Factor Analysis: A Tutorial (Coming Soon)
+title: Bayesian Confirmatory Factor Analysis (coming soon)
 description: 
 ---
 
@@ -62,3 +62,4 @@ The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the 
 The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog. The quick brown fox jumps over the lazy dog.
 
 In other words, the first number specifies the number of paragraphs you want to insert; the second number specifies the number of sentences you want to include in those paragraphs.n
+
