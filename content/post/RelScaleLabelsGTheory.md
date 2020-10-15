@@ -18,3 +18,5 @@ image:
  
 projects: []
 ---
+
+In this blog post, ...
