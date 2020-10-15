@@ -1,6 +1,6 @@
 ---
 title: Bayesian Confirmatory Factor Analysis: A Tutorial (Coming Soon)
-description: A tutorial for fitting Bayesian CFA models
+description: 
 ---
 
 hi h Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
