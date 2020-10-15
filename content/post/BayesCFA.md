@@ -1,5 +1,5 @@
 ---
-title: Bayesian Confirmatory Factor Analysis: A Tutorial
+title: Bayesian Confirmatory Factor Analysis: A Tutorial (Coming Soon)
 description: A tutorial for fitting Bayesian factor analytic models
 ---
 
