@@ -25,7 +25,6 @@ interests:
 - Diagnostic Classification Models
 - Experimental Design and Analysis
 - Causal Inference
-- Professional Development
 
 education:
   courses:
