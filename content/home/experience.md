@@ -43,13 +43,13 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-08-01"
   description = """
-During the summer of 2018, I participated in a Research Experience for Undergraduate (REU) program in Sioux Center, Iowa. The program was funded by the National Science Foundation (NSF; Grant Number NSF-SMI-1560078) and was primarily focused on characterizing and identifying physical and mental health outcomes of individuals living in Ukraine. This was achieved by exploring WMH-CIDI data collected by the World Health Organization (WHO). I worked on two independent projects with a small group of other research interns; one project resulted in a poster presentation at the Council for Undergraduate Research (CUR) Symposium in October 2018 (pdf of poster can be viewed [here](https://docs.google.com/gview?url=https://github.com/alfonso-martinez/IED_CUR2018/raw/master/IED%20Poster%20(REU%20CUR%202018)%20%5BFinal%5D.pdf)). The second project resulted in a poster presentation at the Western Psychological Association (WPA) in October 2020.
+During the summer of 2018, I participated in a Research Experience for Undergraduates (REU) program in Sioux Center, Iowa. The program was funded by the National Science Foundation (NSF; Grant Number NSF-SMI-1560078) and was primarily focused on characterizing and identifying physical and mental health outcomes of individuals living in Ukraine. This was achieved by exploring WMH-CIDI data collected by the World Health Organization (WHO). I worked on two independent projects with a small group of other research interns; one project resulted in a poster presentation at the Council for Undergraduate Research (CUR) Symposium in October 2018. The pdf of poster can be accessed [here](https://docs.google.com/gview?url=https://github.com/alfonso-martinez/IED_CUR2018/raw/master/IED%20Poster%20(REU%20CUR%202018)%20%5BFinal%5D.pdf). The second project resulted in a poster presentation at the Western Psychological Association (WPA) conference in October 2020.
 
 Responsibilities included:
   
   * Identifying a research problem
   * Reviewing relevant studies and preparing a literature review
-  * Conducting data anlyses
+  * Conducting data analyses
   * Writing a summary report suitable for presentation
   """
   
