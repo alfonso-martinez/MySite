@@ -40,9 +40,9 @@ social:
   icon_pack: fas
   #link: "mailto:alfonso-martinez@uiowa.edu" # use this for a direct link
   link: '#contact'
-- icon: cv
-  icon_pack: ai
-  link: https://alfonso-martinez.github.io/MyCV/
+#- icon: cv
+#  icon_pack: ai
+#  link: https://alfonso-martinez.github.io/MyCV/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/AlfonsoMPsych/
@@ -52,9 +52,9 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5337-9654
-- icon: github
-  icon_pack: fab
-  link: https://github.com/alfonso-martinez
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/alfonso-martinez
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alfonso-martinez@uiowa.edu"
