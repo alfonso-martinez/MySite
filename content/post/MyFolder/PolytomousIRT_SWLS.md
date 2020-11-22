@@ -20,7 +20,7 @@ image:
 projects: []
 ---
 
-In this blog post, we will be going over an application of polytomous item response models to the Satisfaction with Life Scale (SWLS). We begin by introducing the SWLS, proving a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained. This blog post is designed to function as a guide for those who are interested in fitting polytomous item response models to their data. 
+In this blog post, haha we will be going over an application of polytomous item response models to the Satisfaction with Life Scale (SWLS). We begin by introducing the SWLS, proving a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained. This blog post is designed to function as a guide for those who are interested in fitting polytomous item response models to their data. 
 
 # The Satisfaction with Life Scale
 
