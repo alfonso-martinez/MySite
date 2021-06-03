@@ -10,5 +10,3 @@ draft: false
 ---
 
 <a href="http://docs.google.com/gview?url=https://github.com/alfonso-martinez/WPA2021_ReliabilityGTheory/raw/main/WPA_2021_Final_Slides_AM.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
-
-
