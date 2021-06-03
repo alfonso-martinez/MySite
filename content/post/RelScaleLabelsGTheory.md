@@ -9,7 +9,4 @@ draft: false
 
 ---
 
-  <iframe frameborder="0" scrolling="yes"
-     width="500" height="480"
-     src="http://docs.google.com/gview?url=https://github.com/alfonso-martinez/WPA2021_ReliabilityGTheory/raw/main/WPA_2021_Final_Slides_AM.pdf">
-  </iframe>
+<embed src = "http://docs.google.com/gview?url=https://github.com/alfonso-martinez/WPA2021_ReliabilityGTheory/raw/main/WPA_2021_Final_Slides_AM.pdf" type = "application/pdf">
