@@ -1,5 +1,5 @@
 ---
-title: An Application of Polytomous Item Response Models to the Satisfaction with Life Scale
+title: Exploring the Psychometric Properties of the Satisfaction with Life Scale with Item Response Theory
 subtitle: 
 summary:
 authors:
