@@ -19,7 +19,7 @@ image:
  
 projects: []
 ---
-Item response theory (IRT) is a powerful multivariate modeling technique for the analysis of binary and ordinal response data. Under the item response framework, the observed variables are assumed to be a function of an underlying latent variable $$\theta \in R$$ (which is unobserved), and the goal of IRT is to infer the characteristics of $$\theta$$ based on the observed responses.
+Item response theory (IRT) is a powerful multivariate modeling technique for the analysis of binary and ordinal response data. Under the item response framework, the observed variables are assumed to be a function of an underlying latent variable $\theta \in \mathbb{R}$ (which is unobserved), and the goal of IRT is to infer the characteristics of $\theta$ based on the observed responses.
 
 In this blog post an application of item response models appropriate for ordinal resposnse data, also known as polytomous item response models, are discussed. Several models, including the graded response model (GRM), the nominal response model (NRM), and the partial credit model (PCM) are briefly introduced and compared via an empirical application to the Satisfaction of Life Scale (SWLS; Diener et al. 1985). First, an overview of the SWLS is presented, along with a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained. This blog post is designed to function as a guide for those who are interested in fitting polytomous item response models to their data. 
 
