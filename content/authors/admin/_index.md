@@ -22,8 +22,8 @@ bio: I am currently a second year graduate student in the Department of Psycholo
 
 interests:
 - Bayesian Psychometric Modeling
-- Diagnostic Classification Models
-- Experimental Design and Analysis
+- Longitudinal & Multilevel Latent Variable Modeling
+- Estimation Theory
 - Causal Inference
 
 education:
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-I am a second year graduate student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa. My research interests include longitudinal & multilevel latent variable modeling (diagnostic classification models, item response theory, etc.), Bayesian modeling & prediction, and causal inference. 
+I am a third year graduate student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa. My research interests include longitudinal & multilevel latent variable modeling (diagnostic classification models, item response theory, etc.), Bayesian modeling & prediction, estimation theory, and causal inference. 
