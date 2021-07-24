@@ -19,7 +19,9 @@ image:
  
 projects: []
 ---
-Item response theory (IRT) is a powerful multivariate modeling technique for the analysis of binary and ordinal response data. In this blog post an application of item response models, appropriate for ordinal resposnse data, also known as polytomous item response models, are discussed. Several models, including the graded response model, the XXX, and the XXXX are compared via an empirical application to the Satisfaction of Life Scale (SWLS). First, an overview of the SWLS is presented, along with a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained. This blog post is designed to function as a guide for those who are interested in fitting polytomous item response models to their data. 
+Item response theory (IRT) is a powerful multivariate modeling technique for the analysis of binary and ordinal response data. Under the item response framework, the observed variables are assumed to be a function of an underlying latent variable $$\theta \in R$$ (which is unobserved), and the goal of IRT is to infer the characteristics of $$\theta$$ based on the observed responses.
+
+In this blog post an application of item response models appropriate for ordinal resposnse data, also known as polytomous item response models, are discussed. Several models, including the graded response model (GRM), the nominal response model (NRM), and the partial credit model (PCM) are briefly introduced and compared via an empirical application to the Satisfaction of Life Scale (SWLS; Diener et al. 1985). First, an overview of the SWLS is presented, along with a historical overview of its development, functional purpose, characteristics, and recent work that has utilized the scale. Then, an overview of item response theory, with an emphasis on polytomous item response models. Topics discussed include model specification, evaluating model fit, and interpreting the results obtained. This blog post is designed to function as a guide for those who are interested in fitting polytomous item response models to their data. 
 
 # The Satisfaction with Life Scale
 
@@ -45,7 +47,7 @@ The ordinal nature of the SWLS makes it an ideal candidate to be analyzed with i
 
 # Data
 
-Data for this project comes from my undergraduate thesis. In the original project, two versions of
+Data for this project comes from a project undertaken in 2019. In the original project, two versions of
 the SWLS were created and participants were randomly assigned to receive one version.
 One version of the SWLS was the original scale and in the second version of the SWLS, the
 response labels for categories 2 through 6 were left blank. The research question in my
