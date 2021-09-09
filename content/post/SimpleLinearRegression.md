@@ -1,24 +1,7 @@
 ---
-title: Bayesian Confirmatory Factor Analysis (coming soon)
+title: Simple Linear Regression
 description: 
 ---
-
-hi h Here is the greek letter lambda ($\lambda$). Here is beta $\beta$. Selecting the preceding developments, we are now ready to state the posterior distribution for all the unknowns:
-\begin{align*}
-p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi \mid \mathbf{x}) &\propto p(\mathbf{x} \mid \Xi, \kappa, \Phi, \tau, \Lambda, \Psi) p(\Xi, \kappa, \Phi, \tau, \Lambda, \Psi)
-	&= p(\mathbf{x} \mid \Xi, \tau, \Lambda, \Psi) p(\Xi \mid \kappa, \Phi) p(\kappa) p(\Phi) p(\tau) p(\Lambda) p(\Psi) \\
-	&= \prod_{i = 1}^{n} \prod_{j = 1}^{J} \prod_{m = 1}^{M} p(x_{ij} \mid \xi_i, \tau_j, \lambda_j, \psi_{ij}) p(\xi_i \mid \kappa, \Phi) p(\kappa_m) p(\Phi) p(\tau_j) p(\lambda_{jm}) p(\psi_{jj}), 
-	\intertext{where}
-	x_{ij} \mid \xi_i, \tau_j, \lambda_j, \psi_{ij} &\sim N(\tau_j + \xi_i \lambda_j^\prime, \psi_{jj}) \mbox{ for } i = 1, \ldots, n, \ j, \ldots, J, \\
-	\xi_i \mid \kappa, \Phi &\sim N(\kappa, \Phi) \mbox{ for } i = 1, \ldots, n, \\
-	\kappa_m &\sim N(\mu_{\kappa}, \sigma_{\kappa}^2) \mbox{ for } m = 1, \ldots, M, \\
-	\Phi &\sim \mbox{Inv-Wishart}(\Phi_0, d), \\
-	\tau_j &\sim N(\mu_{\tau}, \sigma_{\tau}^2) \mbox{ for } j = 1, \ldots, J, \\
-	\lambda_{jm} &\sim N(\mu_{\lambda}, \sigma_{\lambda}^2) \mbox{ for } j = 1, \ldots, J, \ m = 1, \ldots, M, 
-	\intertext{and}
-	\psi_{jj} &\sim \mbox{Inv-Gamma}(\frac{\nu_{\psi}}{2}, \frac{\nu_{\psi} \psi_0}{2}) \mbox{ for } j = 1, \ldots, J.
-\end{align*}
-
 Data come from my undergraduate honors thesis where I recorded the responses to the Satisfaction with Life Scale. The SWLS is a scale designed to measured global cognitive evaluations of ones view of their life. There were a total of 656 respondents and the SWLS consists of the following 5 items:
 	\begin{enumerate}
 		\item In most ways my life is close to my ideal. 
