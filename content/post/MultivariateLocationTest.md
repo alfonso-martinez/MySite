@@ -64,7 +64,7 @@ We can see that if the data is tested against the true population value, $H_0$ i
 ```R
 [1] "Q is chi-square distributed with p = 3 degrees of freedom"
 [1] "Percentile: 95"
-[1] "Q = 3585604.74 and the critical value is 7.815"
-[1] "Conclusion: REJECT NULL"
+[1] "Q = 0.39 and the critical value is 7.815"
+[1] "Conclusion: FAIL TO REJECT NULL"
 ```
 
