@@ -14,9 +14,9 @@ It can be shown that the test statistic
 \end{align}
 where $\overline{\mathbf{X}} = \mathbf{1}_n^{\top}\mathbf{X}$ and $\mathbf{1}_n$ is a $n \times 1$ vector of 1's, follows a $\chi^2$ distribution with $p$ degrees of freedom (denoted $\chi^2_p$). 
 
-Here is a function that will compute $Q$ for us; we will reject $H_0$ with significance $\alpha$ if $Q \geq _\alpha\chi^2_p$, where $\_\alpha\chi^2_p$ is the $100(1-\alpha)$ percentile of the $\chi^2_p$ distribution. 
+Here is a function that will compute $Q$ for us; we will reject $H_0$ with significance $\alpha$ if $Q \geq \_\alpha\chi^2_p$, where $\_\alpha\chi^2_p$ is the $100(1-\alpha)$ percentile of the $\chi^2_p$ distribution. 
 
-```
+```{r}
 multivariate.location.test <- function(data, sigma, mu0, percentile){
   input.data <- as.matrix(data)
   
