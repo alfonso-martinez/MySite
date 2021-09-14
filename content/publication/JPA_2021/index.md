@@ -10,6 +10,6 @@ image:
   preview_only: true
 publication: "*Journal of Psychoeducational Assessment"
 url_pdf: "https://journals.sagepub.com/doi/full/10.1177/07342829211034252"
-doi: "https://journals.sagepub.com/doi/full/10.1177/07342829211034252"
+doi: "10.1177/07342829211034252"
 ---
 
