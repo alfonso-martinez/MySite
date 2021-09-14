@@ -16,7 +16,7 @@ where $\overline{\mathbf{X}} = \mathbf{1}_n^{\top}\mathbf{X}$ and $\mathbf{1}_n$
 
 Here is a function that will compute $Q$ for us; we will reject $H_0$ with significance $\alpha$ if $Q \geq \_\alpha\chi^2_p$, where $\_\alpha\chi^2_p$ is the $100(1-\alpha)$ percentile of the $\chi^2_p$ distribution. 
 
-```{r}
+```R
 multivariate.location.test <- function(data, sigma, mu0, percentile){
   input.data <- as.matrix(data)
   
