@@ -1,9 +1,14 @@
 ---
-title: Testing the multivariate normal mean vector $\mathbf{\mu}$ when the covariance matrix $\mathbf{\Sigma}$ is known
+title: A Multivariate Generalization of the $z$-test for Testing Multivariate Mean Vector $\mathbf{\mu}$
 description: 
 ---
 
-Let $\mathbf{X} = \mathbf{X}_1, \ldots, \mathbf{X}_n \sim \mathcal{N}_p(\mathbf{\mu}, \mathbf{\Sigma})$ be an independent and identically distributed sample, where $n > p$ and $\mathbf{\Sigma}$ is known. We wish to test the hypothesis:
+The $z$-test is often introduced in introductory statistics texts as the first "hypothesis test." The $z$-test is useful for examining whether the mean of a population is greater than, less than, or not equal to a specific value. Hypotheses of interest often include
+\begin{align}
+  \item H_0: \mu = \mu_0 \quad vs. \quad \mu \neq \mu_0.
+\end{align}
+
+This idea can be extended to the multivariate case, where interest lies in testing populuation mean vector \mathbf{\mu}. Let $\mathbf{X} = \mathbf{X}_1, \ldots, \mathbf{X}_n \sim \mathcal{N}_p(\mathbf{\mu}, \mathbf{\Sigma})$ be an independent and identically distributed sample, where $n > p$ and $\mathbf{\Sigma}$ is known. We wish to test the hypothesis:
 \begin{align}
 H_0: \mathbf{\mu} = \mathbf{\mu}_0 \quad vs. \quad H_1: \mathbf{\mu} \neq \mathbf{\mu}_0.
 \end{align}
