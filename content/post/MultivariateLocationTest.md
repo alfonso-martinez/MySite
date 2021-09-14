@@ -42,3 +42,19 @@ multivariate.location.test <- function(data, sigma, mu0, percentile){
   print(paste0("Conclusion: ", conclusion))
 }
 ```
+We can generate data based on a multivariate normal distribution to test the functionality of the function above.
+```{r}
+library(mvtnorm)
+
+pop.mean.vector <- matrix(data = c(100, 130, 143), nrow = 3, ncol = 1)
+pop.cov.matrix <- matrix(data = c(12, 5.5, 9,
+                                  5.5, 14, 5, 
+                                  9, 5, 8), nrow = 3, ncol = 3, byrow = T)
+
+X <- rmvnorm(n = 500, mean = pop.mean.vector, sigma = pop.cov.matrix)
+
+multivariate.location.test(data = X, sigma = pop.cov.matrix, mu0 = mu.vector, percentile = 0.95)
+```
+We can see that if the data is tested against the true population value, $H_0$ is not rejected, as expected. 
+
+
