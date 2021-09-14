@@ -2,6 +2,6 @@
 header:
   caption: ""
   image: ""
-title: articles
+title: Publications
 view: 4
 ---
