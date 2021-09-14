@@ -1,5 +1,5 @@
 ---
-title: Testing the multivariate normal mean vector in case of known covariance matrices $\Sigma$
+title: Testing the multivariate normal mean vector $\mathbf{\mu}$ when the covariance matrix $\mathbf{\Sigma}$ is known
 description: 
 ---
 
