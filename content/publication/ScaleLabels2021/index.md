@@ -23,7 +23,7 @@ Implications and recommendations for scale developers and directions for future 
 are discussed."
 featured: true
 image:
-  preview_only: true
+  preview_only: false
 publication: "*PsyArXiv*"
 url_pdf: "https://psyarxiv.com/5fs4a/"
 doi: "10.31234/osf.io/5fs4a"
