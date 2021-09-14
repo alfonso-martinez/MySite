@@ -10,6 +10,6 @@ H_0: \mathbf{\mu} = \mathbf{\mu}_0 \quad vs. \quad H_1: \mathbf{\mu} \neq \mathb
 
 It can be shown that the test statistic 
 \begin{align}
-  Q = n(\overline{\mathbf{X}} - \mathbf{\mu}_0)^{\top}(\mathbf{\Sigma))^{-1}(\overline{\mathbf{X}} - \mathbf{\mu}_0),
+  Q = n(\overline{\mathbf{X}} - \mathbf{\mu}_0)^{\top}(\mathbf{\Sigma})^{-1}(\overline{\mathbf{X}} - \mathbf{\mu}_0),
 \end{align}
 where $\overline{\mathbf{X}} = \mathbf{1}^{\top}\mathbf{X},$ follows a $\chi^2$ distribution with $p$ degrees of freedom (denoted $\chi^2_p$). 
