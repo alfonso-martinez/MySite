@@ -43,7 +43,7 @@ multivariate.location.test <- function(data, sigma, mu0, percentile){
 }
 ```
 We can generate data based on a multivariate normal distribution to test the functionality of the function above.
-```{r}
+```R
 library(mvtnorm)
 
 pop.mean.vector <- matrix(data = c(100, 130, 143), nrow = 3, ncol = 1)
