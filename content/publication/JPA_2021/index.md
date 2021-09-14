@@ -1,6 +1,6 @@
 ---
 title: "Factor Structure and Measurement Invariance of the Academic Time Management and Procrastination Measure"
-date: 2011-01-01
+date: 2021-10-01
 publishDate: 
 authors: ["Alfonso J. Martinez"]
 publication_types: ["2"]
