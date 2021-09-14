@@ -29,7 +29,7 @@ content:
     category: ''
     publication_type: '5'
     author: ''
-    exclude_featured: true
+    exclude_featured: false
 design:
   # Choose a view for the listings:
   #   1 = List
