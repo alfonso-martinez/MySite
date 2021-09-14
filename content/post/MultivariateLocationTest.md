@@ -53,7 +53,7 @@ pop.cov.matrix <- matrix(data = c(12, 5.5, 9,
 
 X <- rmvnorm(n = 500, mean = pop.mean.vector, sigma = pop.cov.matrix)
 
-multivariate.location.test(data = X, sigma = pop.cov.matrix, mu0 = mu.vector, percentile = 0.95)
+multivariate.location.test(data = X, sigma = pop.cov.matrix, mu0 = pop.mean.vector, percentile = 0.95)
 ```
 We can see that if the data is tested against the true population value, $H_0$ is not rejected, as expected. 
 
