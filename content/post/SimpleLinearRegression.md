@@ -25,3 +25,4 @@ In order to establish if the relationship between $y$ and $x$ can be reasonably 
 
 
 # Estimation of $\beta_0$, $\beta_1$, and $\sigma^2$. 
+There are two general approaches to estimating the parameters of interest. One approach uses [maximum likelihood](https://en.wikipedia.org/wiki/Maximum_likelihood_estimation) to find the values of the parameters that make the data most likely, and the [least squares](https://en.wikipedia.org/wiki/Least_squares) approach, which attempts to minimize a specified objective function. 
