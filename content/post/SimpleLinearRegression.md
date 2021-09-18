@@ -19,10 +19,9 @@ Before conducting a regression analysis, it is important to understand the assum
   3. The variance of the random errors is assumed to be constant across all observations. In symbols, $$V(\epsilon_i) = \sigma^2$$ for all $i = 1, \ldots, n.$ Alternatively, this assumption implies that all observations have the same level of precision. 
   4. The final assumption is that any two random error terms coming from different observations (say $\epsilon_i$ and $\epsilon_{i^\prime}$ are independent. This assumption implies that the covariance between $\epsilon_i$ and $\epsilon_{i^\prime}$ is zero, i.e., $Cov(\epsilon_i, \epsilon_{i^\prime}) = 0$ for $i \neq {i^\prime}.$
 
-Let $\mu_i = \beta_0 + \beta_1 x_i$. Under the assumptions described above, the simple linear regression model implies that the response variable $y_i$ is drawn from a normal distribution characterized by mean $\mu_i$ and variance $\sigma^2$. In symbols, $$y_i \sim N(\mu_i, \sigma^2), \quad i = 1, \ldots, n$$ or equivalently, 
-$$y_i \sim N(\beta_0 + \beta_1 x_i, \sigma^2), \quad i = 1, \ldots, n$$
+Let $\mu_i = \beta_0 + \beta_1 x_i$. Under the assumptions described above, the simple linear regression model implies that the response variable $y_i$ is drawn from a normal distribution characterized by mean $\mu_i$ and variance $\sigma^2$. In symbols, $$y_i \sim N(\mu_i, \sigma^2), \quad i = 1, \ldots, n$$ or equivalently, $$y_i \sim N(\beta_0 + \beta_1 x_i, \sigma^2), \quad i = 1, \ldots, n$$.
 
-In order to establish if the relationship between $y$ and $x$ can be reasonably modeled with the simple linear regression model, we need to estimate the parameters $\beta_0,$ \beta_1,$ and $\sigma^2$ from the available data $(y_i, x_i), \quad i = 1, \ldots, n.$ In this particular model, the main parameter of interest is $\beta_1$ as it describes the magnitude of the relationship between $y$ and $x$.
+In order to establish if the relationship between $y$ and $x$ can be reasonably modeled with the simple linear regression model, we need to estimate the parameters $\beta_0$, $\beta_1$, and $\sigma^2$ from the available data $(y_i, x_i), \quad i = 1, \ldots, n.$ In this particular model, the main parameter of interest is $\beta_1$ as it describes the magnitude of the relationship between $y$ and $x$.
 
 
 # Estimation of $\beta_0$, $\beta_1$, and $\sigma^2$. 
