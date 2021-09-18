@@ -23,3 +23,6 @@ Let $\mu_i = \beta_0 + \beta_1 x_i$. Under the assumptions described above, the 
 $$y_i \sim N(\beta_0 + \beta_1 x_i, \sigma^2), \quad i = 1, \ldots, n$$
 
 In order to establish if the relationship between $y$ and $x$ can be reasonably modeled with the simple linear regression model, we need to estimate the parameters $\beta_0,$ \beta_1,$ and $\sigma^2$ from the available data $(y_i, x_i), \quad i = 1, \ldots, n.$ In this particular model, the main parameter of interest is $\beta_1$ as it describes the magnitude of the relationship between $y$ and $x$.
+
+
+# Estimation of $\beta_0$, $\beta_1$, and $\sigma^2$. 
