@@ -15,4 +15,4 @@ For the purposes of this post, we will use the Real Estate Valuation Dataset [(o
 ## Assumptions of the Model
 Before conducting a regression analysis, it is important to understand the assumptions of the linear regression model. A few standard assumptions include:
   1. The covariates $x_i$ are assumed to be known. In other words, they have been measured and collected as part of some data collection process. An implicit assumption is that the covariates were measured without error. In other words, the covariate was measured precisely and exactly. 
-  2. The expected value of the random error $\epsilon_i$ is assumed to be 0; i.e., $E(\epsilon_i) = 0 \quad i = 1, \ldots, n$, where $E(\cdot)$ is the expectation operator. Note that this assumption implies that $$E(y_i) = E(\beta_0 + \beta_1 x_i), \quad i = 1, \ldots, n.$$
+  2. The expected value of the random error $\epsilon_i$ is assumed to be 0; i.e., $E(\epsilon_i) = 0 \quad i = 1, \ldots, n$, where $E(\cdot)$ is the expectation operator. Note that this assumption implies that $$E(y_i) = \beta_0 + \beta_1 x_i, \quad i = 1, \ldots, n.$$
