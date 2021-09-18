@@ -18,3 +18,6 @@ Before conducting a regression analysis, it is important to understand the assum
   2. The expected value of the random error $\epsilon_i$ is assumed to be 0; i.e., $E(\epsilon_i) = 0 \quad i = 1, \ldots, n$, where $E(\cdot)$ is the expectation operator. Note that this assumption implies that $$E(y_i) = \beta_0 + \beta_1 x_i, \quad i = 1, \ldots, n.$$
   3. The variance of the random errors is assumed to be constant across all observations. In symbols, $$V(\epsilon_i) = \sigma^2$$ for all $i = 1, \ldots, n.$ Alternatively, this assumption implies that all observations have the same level of precision. 
   4. The final assumption is that any two random error terms coming from different observations (say $\epsilon_i$ and $\epsilon_{i^\prime}$ are independent. This assumption implies that the covariance between $\epsilon_i$ and $\epsilon_{i^\prime}$ is zero, i.e., $Cov(\epsilon_i, \epsilon_{i^\prime}) = 0$ for $i \neq {i^\prime}.$
+
+Let $\mu_i = \beta_0 _ \beta_1 x_i$. Under the assumptions described above, the simple linear regression model implies that the response variable $y_i$ is drawn from a normal distribution characterized by mean $\mu_i$ and variance $\sigma^2$. In symbols, $$y_i \sim N(mu_i, \sigma^2) \quad i = 1, \ldots, n$$ or equivalently, 
+$$y_i \sim N(\beta_0 + \beta1 x_i, \sigma^2) \quad i = 1, \ldots, n$$
