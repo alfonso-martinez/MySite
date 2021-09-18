@@ -10,7 +10,7 @@ where $(y_i, x_i)$ is the response-covariate pair for the $i$th observation. In 
   1. Can we predict $y$ from $x$? If so, how well can we do so and to what extent do these predictions make sense?
   2. Can we establish a (linear) relationship between $y$ and $x$?
   3. If $x$ is related to $y$, how much of the variation does $x$ explain?
-For the purposes of this post, we will use the Real Estate Valuation Dataset [http://foo.com)(obtained from the UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set) and we will attempt to describe the relationship between the house prices ($y$) and number of convenience stores surrounding the house ($x$).
+For the purposes of this post, we will use the Real Estate Valuation Dataset [(obtained from the UCI Machine Learning Repository)](https://archive.ics.uci.edu/ml/datasets/Real+estate+valuation+data+set) and we will attempt to describe the relationship between the house prices ($y$) and number of convenience stores surrounding the house ($x$).
 
 
 ## Assumptions of the Model
