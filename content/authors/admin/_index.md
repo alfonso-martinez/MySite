@@ -31,8 +31,10 @@ education:
   courses:
   - course: PhD in Psychological and Quantitative Foundations
     institution: University of Iowa
+    year: expected 2024
   - course: MS in Statistics
     institution: University of Iowa
+    year: expected 2023
   - course: MA in Psychological and Quantitative Foundations
     institution: University of Iowa
     year: 2021
