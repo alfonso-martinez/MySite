@@ -15,7 +15,7 @@ role: PhD Student, ACT Fellow
 # Organizations/Affiliations
 organizations:
 - name: Educational Measurement and Statistics
-  url: "https://education.uiowa.edu/academic-programs/educational-measurement-and-statistics"
+  url: "https://education.uiowa.edu/areas-study/learning-sciences-and-assessment/educational-measurement-and-statistics"
 - name: Statistics
   url: "https://stat.uiowa.edu/"
 
