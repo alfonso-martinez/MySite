@@ -10,27 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Graduate Student, ACT Fellow
+role: PhD Student, ACT Fellow
 
 # Organizations/Affiliations
 organizations:
 - name: Educational Measurement and Statistics
   url: "https://education.uiowa.edu/academic-programs/educational-measurement-and-statistics"
+- name: Statistics
+  url: "https://stat.uiowa.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am currently a third year graduate student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa. I am primarily interested in the development and application of latent variable models for educational assessment and psychological measurement. I am also interested in issues related to causal inference, particularly identification of bias in randomized and non-randomized (observational) studies. 
+bio: I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interest primarily lie in the development and application of advanced latent variable models for educational assessment and psychological measurement. 
 
 interests:
 - Bayesian Psychometric Modeling
-- Longitudinal & Multilevel Latent Variable Modeling
+- Advanced Latent Variable Modeling
 - Estimation Theory
-- Causal Inference
 
 education:
   courses:
-  - course: MA in Educational Measurement and Statistics
+  - course: PhD in Psychological and Quantitative Foundations
     institution: University of Iowa
-    year: 2021 (In Progress)
+  - course: MS in Statistics
+    institution: University of Iowa
+  - course: MA in Psychological and Quantitative Foundations
+    institution: University of Iowa
+    year: 2021
   - course: BA in Psychology
     institution: California State University, Fresno
     year: 2019
@@ -66,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-I am a third year graduate student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa. My research interests include longitudinal & multilevel latent variable modeling (diagnostic classification models, item response theory, etc.), Bayesian modeling & prediction, estimation theory, and causal inference. 
+I am a fourth year PhD student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa as well as a second year Masters student in the Statistics program. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), Bayesian modeling & prediction, estimation theory, and issues surrounding missing data. 
