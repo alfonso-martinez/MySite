@@ -73,4 +73,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year PhD student and ACT Fellow in the Educational Measurement and Statistics program at the University of Iowa as well as a second year Masters student in the Statistics program. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), Bayesian modeling & prediction, estimation theory, and issues surrounding missing data. 
+I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
