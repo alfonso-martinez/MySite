@@ -16,7 +16,7 @@ role: PhD Student, ACT Fellow
 organizations:
 - name: Department of Psychological and Quantitative Foundations
   url: "https://education.uiowa.edu/areas-study/learning-sciences-and-assessment/educational-measurement-and-statistics"
-- name: Department of Statistics and Acturarial Science
+- name: Department of Statistics and Actuarial Science
   url: "https://stat.uiowa.edu/"
 
 # Short bio (displayed in user profile at end of posts)
