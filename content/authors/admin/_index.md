@@ -20,11 +20,12 @@ organizations:
   url: "https://stat.uiowa.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interest primarily lie in the development and application of advanced latent variable models for educational assessment and psychological measurement. 
+bio: I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interest primarily lie in the development and application of advanced latent variable models for the social, behavioral, psychological sciences . 
 
 interests:
 - Bayesian Psychometric Modeling
 - Advanced Latent Variable Modeling
+- Random and Mixed Effects Modeling
 - Estimation Theory
 
 education:
@@ -73,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
+I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), random and mixed effect modeling, Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
