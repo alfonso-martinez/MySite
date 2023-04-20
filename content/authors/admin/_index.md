@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), random and mixed effect modeling, Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
+I am a PhD candidate in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), random and mixed effect modeling, Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
