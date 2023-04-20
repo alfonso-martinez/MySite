@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student, ACT Fellow
+role: PhD Candidate, ACT Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -20,7 +20,7 @@ organizations:
   url: "https://stat.uiowa.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a fourth year PhD student in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interest primarily lie in the development and application of advanced latent variable models for the social, behavioral, psychological sciences . 
+bio: I am a PhD candidate in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interest primarily lie in the development and application of advanced latent variable models for the social, behavioral, psychological sciences. 
 
 interests:
 - Bayesian Psychometric Modeling
