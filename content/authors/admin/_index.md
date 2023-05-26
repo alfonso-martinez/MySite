@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate, ACT Fellow
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -46,8 +46,8 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  #link: "mailto:alfonso-martinez@uiowa.edu" # use this for a direct link
   link: '#contact'
+ #link: "mailto:alfonso-martinez@uiowa.edu" # use this for a direct link
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/AlfonsoMPsych/
