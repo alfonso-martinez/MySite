@@ -20,11 +20,11 @@ organizations:
   url: "https://stat.uiowa.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interest primarily lie in the development and application of advanced latent variable models for the social, behavioral, psychological sciences. 
+bio: I am a PhD candidate in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa. My research interest primarily lie in the development and application of advanced latent variable models for the social, behavioral, psychological sciences. 
 
 interests:
-- Bayesian Psychometric Modeling
 - Advanced Latent Variable Modeling
+- Bayesian Modeling & Prediction
 - Random and Mixed Effects Modeling
 - Estimation Theory
 
@@ -48,9 +48,6 @@ social:
   icon_pack: fas
   #link: "mailto:alfonso-martinez@uiowa.edu" # use this for a direct link
   link: '#contact'
-#- icon: cv
-#  icon_pack: ai
-#  link: https://alfonso-martinez.github.io/MyCV/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/AlfonsoMPsych/
@@ -60,9 +57,12 @@ social:
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0002-5337-9654
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/alfonso-martinez
+- icon: google-scholar
+  icon_pack: fab
+  link: https://scholar.google.com/citations?user=tnKO97kAAAAJ&hl=en
+#- icon: cv
+#  icon_pack: ai
+#  link: https://alfonso-martinez.github.io/MyCV/
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "alfonso-martinez@uiowa.edu"
@@ -74,4 +74,4 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa as well as a second year Masters student in the Department of Statistics and Acturial Science. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), random and mixed effect modeling, Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
+I am a PhD candidate in the Department of Psychological and Quantitative Foundations in the College of Education at the University of Iowa. My research interests include advanced latent variable modeling (structural equation models, diagnostic classification models, etc.), random and mixed effect modeling, Bayesian modeling & prediction, estimation theory, and issues related to missing data analysis. 
